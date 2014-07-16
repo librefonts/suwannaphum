@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <name>
+    <namerecord nameID="0" platformID="1" platEncID="0" langID="0x0">
+      Copyright (c) 2013, Danh Hong (khmertype.org)
+    </namerecord>
+    <namerecord nameID="1" platformID="1" platEncID="0" langID="0x0">
+      Battambang
+    </namerecord>
+    <namerecord nameID="2" platformID="1" platEncID="0" langID="0x0">
+      Regular
+    </namerecord>
+    <namerecord nameID="3" platformID="1" platEncID="0" langID="0x0">
+      Battambang:Version 2.00
+    </namerecord>
+    <namerecord nameID="4" platformID="1" platEncID="0" langID="0x0">
+      Battambang
+    </namerecord>
+    <namerecord nameID="5" platformID="1" platEncID="0" langID="0x0">
+      Version 2.00 February 6, 2013
+    </namerecord>
+    <namerecord nameID="6" platformID="1" platEncID="0" langID="0x0">
+      Battambang
+    </namerecord>
+    <namerecord nameID="7" platformID="1" platEncID="0" langID="0x0">
+      Battambang is a trademark of Danh Hong and may be registered in certain jurisdictions.
+    </namerecord>
+    <namerecord nameID="8" platformID="1" platEncID="0" langID="0x0">
+      Danh Hong
+    </namerecord>
+    <namerecord nameID="11" platformID="1" platEncID="0" langID="0x0">
+      http://khmertype.blogspot.com/
+    </namerecord>
+    <namerecord nameID="12" platformID="1" platEncID="0" langID="0x0">
+      http://khmertype.blogspot.com/
+    </namerecord>
+    <namerecord nameID="13" platformID="1" platEncID="0" langID="0x0">
+      Licensed under the Apache License, Version 2.0
+    </namerecord>
+    <namerecord nameID="14" platformID="1" platEncID="0" langID="0x0">
+      http://www.apache.org/licenses/LICENSE-2.0
+    </namerecord>
+    <namerecord nameID="16" platformID="1" platEncID="0" langID="0x0">
+      Battambang
+    </namerecord>
+    <namerecord nameID="18" platformID="1" platEncID="0" langID="0x0">
+      Battambang
+    </namerecord>
+    <namerecord nameID="256" platformID="1" platEncID="0" langID="0x0">
+      NILL 
+    </namerecord>
+    <namerecord nameID="257" platformID="1" platEncID="0" langID="0x0">
+      NILL
+    </namerecord>
+    <namerecord nameID="258" platformID="1" platEncID="0" langID="0x0">
+      NULL 
+    </namerecord>
+    <namerecord nameID="259" platformID="1" platEncID="0" langID="0x0">
+      Rearrangement 
+    </namerecord>
+    <namerecord nameID="260" platformID="1" platEncID="0" langID="0x0">
+      Do Rearrangement 
+    </namerecord>
+    <namerecord nameID="261" platformID="1" platEncID="0" langID="0x0">
+      NILL  
+    </namerecord>
+    <namerecord nameID="0" platformID="3" platEncID="1" langID="0x409">
+      Copyright (c) 2013, Danh Hong (khmertype.org)
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x409">
+      Battambang
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x409">
+      Regular
+    </namerecord>
+    <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
+      Battambang:Version 2.00
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
+      Battambang
+    </namerecord>
+    <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
+      Version 2.00 February 6, 2013
+    </namerecord>
+    <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
+      Battambang
+    </namerecord>
+    <namerecord nameID="7" platformID="3" platEncID="1" langID="0x409">
+      Battambang is a trademark of Danh Hong and may be registered in certain jurisdictions.
+    </namerecord>
+    <namerecord nameID="8" platformID="3" platEncID="1" langID="0x409">
+      Danh Hong
+    </namerecord>
+    <namerecord nameID="11" platformID="3" platEncID="1" langID="0x409">
+      http://khmertype.blogspot.com/
+    </namerecord>
+    <namerecord nameID="12" platformID="3" platEncID="1" langID="0x409">
+      http://khmertype.blogspot.com/
+    </namerecord>
+    <namerecord nameID="13" platformID="3" platEncID="1" langID="0x409">
+      Licensed under the Apache License, Version 2.0
+    </namerecord>
+    <namerecord nameID="14" platformID="3" platEncID="1" langID="0x409">
+      http://www.apache.org/licenses/LICENSE-2.0
+    </namerecord>
+    <namerecord nameID="16" platformID="3" platEncID="1" langID="0x409">
+      Battambang
+    </namerecord>
+    <namerecord nameID="18" platformID="3" platEncID="1" langID="0x409">
+      Battambang
+    </namerecord>
+    <namerecord nameID="19" platformID="3" platEncID="1" langID="0x409">
+      &#6039;&#6070;&#6047;&#6070;&#6017;&#6098;&#6040;&#6082;&#6042;
+    </namerecord>
+  </name>
+
+</ttFont>
