@@ -1,0 +1,33 @@
+Fonts
+  Font:
+    Common name: Battambang
+    Sub family: Regular
+    Weight: normal
+    Fixed width: yes
+    Fixed sizes: yes
+    Copyright: Copyright (c) 2013, Danh Hong (khmertype.org)
+    License: Licensed under the Apache License, Version 2.0
+    License url: http://www.apache.org/licenses/LICENSE-2.0
+    Version: Version 2.00 February 6, 2013
+    Vendor: Danh Hong
+    Vendor url: http://khmertype.blogspot.com/
+    Designer url: http://khmertype.blogspot.com/
+    Glyph count: 302
+    Character count: 141
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: fragmentary
+          Percent coverage: 18
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: fragmentary
+          Percent coverage: 30
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23

@@ -1,0 +1,24 @@
+{
+  "name": "Suwannaphum",
+  "designer": "Danh Hong",
+  "license": "OFL",
+  "visibility": "External",
+  "category": "Display",
+  "size": 65842,
+  "fonts": [
+    {
+      "name": "Battambang",
+      "style": "normal",
+      "weight": 400,
+      "filename": "Battambang-Regular.ttf",
+      "postScriptName": "Battambang",
+      "fullName": "Battambang",
+      "copyright": "Copyright (c) 2013, Danh Hong (khmertype.org)"
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2011-03-02"
+}
